@@ -1,0 +1,15 @@
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/bin/Debug/net6.0/Running.Application.deps.json
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/bin/Debug/net6.0/Running.Application.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/bin/Debug/net6.0/Running.Application.pdb
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/bin/Debug/net6.0/Running.Domain.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/bin/Debug/net6.0/Running.Domain.pdb
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/obj/Debug/net6.0/Running.Application.csproj.AssemblyReference.cache
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/obj/Debug/net6.0/Running.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/obj/Debug/net6.0/Running.Application.AssemblyInfoInputs.cache
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/obj/Debug/net6.0/Running.Application.AssemblyInfo.cs
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/obj/Debug/net6.0/Running.Application.csproj.CoreCompileInputs.cache
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/obj/Debug/net6.0/Running.Application.csproj.CopyComplete
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/obj/Debug/net6.0/Running.Application.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/obj/Debug/net6.0/refint/Running.Application.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/obj/Debug/net6.0/Running.Application.pdb
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/obj/Debug/net6.0/ref/Running.Application.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BxRBXrZcq+tQdiz/JZyCzGsBs4o/TKi/D31v46Okr1XdmLR1kpea4n6VM5oww8seR+DKNAXVAHJ7SPcETqBvWA==",
+  "success": true,
+  "projectFilePath": "/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Application/Running.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/dariuszkoszalka/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/dariuszkoszalka/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/bin/Debug/net6.0/AccountManager.Application.deps.json
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/bin/Debug/net6.0/AccountManager.Application.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/bin/Debug/net6.0/AccountManager.Application.pdb
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/bin/Debug/net6.0/AccountManager.Domain.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/bin/Debug/net6.0/AccountManager.Domain.pdb
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/obj/Debug/net6.0/AccountManager.Application.csproj.AssemblyReference.cache
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/obj/Debug/net6.0/AccountManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/obj/Debug/net6.0/AccountManager.Application.AssemblyInfoInputs.cache
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/obj/Debug/net6.0/AccountManager.Application.AssemblyInfo.cs
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/obj/Debug/net6.0/AccountManager.Application.csproj.CoreCompileInputs.cache
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/obj/Debug/net6.0/AccountManager.Application.csproj.CopyComplete
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/obj/Debug/net6.0/AccountManager.Application.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/obj/Debug/net6.0/refint/AccountManager.Application.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/obj/Debug/net6.0/AccountManager.Application.pdb
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/obj/Debug/net6.0/ref/AccountManager.Application.dll

@@ -1,0 +1,75 @@
+﻿{
+  "Globalconfiguration": {
+    "BaseUrl": "http://localhost:46998"
+  },
+
+  "Routes": [
+    //get all users
+    {
+      "UpstreamPathTemplate": "/gateway/user",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownStreamPathTemplate": "/api/user",
+      "DownStreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ]
+    },
+    //registerUser
+    {
+      "UpstreamPathTemplate": "/gateway/user/register",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownStreamPathTemplate": "/api/user/register",
+      "DownStreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ]
+    },
+    //get user by id
+    {
+      "UpstreamPathTemplate": "/gateway/user/{userId}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownStreamPathTemplate": "/api/user/{userId}",
+      "DownStreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ]
+    },
+    {
+      //updateUser
+      "UpstreamPathTemplate": "/gateway/user",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownStreamPathTemplate": "/api/user",
+      "DownStreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ]
+    },
+    //deleteUser
+    {
+      "UpstreamPathTemplate": "/gateway/user/{userId}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownStreamPathTemplate": "/api/user/{userId}",
+      "DownStreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ]
+    }
+
+  ]
+
+}

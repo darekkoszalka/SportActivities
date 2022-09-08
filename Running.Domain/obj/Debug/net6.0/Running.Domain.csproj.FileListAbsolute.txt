@@ -1,0 +1,12 @@
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Domain/bin/Debug/net6.0/Running.Domain.deps.json
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Domain/bin/Debug/net6.0/Running.Domain.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Domain/bin/Debug/net6.0/Running.Domain.pdb
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Domain/obj/Debug/net6.0/Running.Domain.csproj.AssemblyReference.cache
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Domain/obj/Debug/net6.0/Running.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Domain/obj/Debug/net6.0/Running.Domain.AssemblyInfoInputs.cache
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Domain/obj/Debug/net6.0/Running.Domain.AssemblyInfo.cs
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Domain/obj/Debug/net6.0/Running.Domain.csproj.CoreCompileInputs.cache
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Domain/obj/Debug/net6.0/Running.Domain.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Domain/obj/Debug/net6.0/refint/Running.Domain.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Domain/obj/Debug/net6.0/Running.Domain.pdb
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/Running.Domain/obj/Debug/net6.0/ref/Running.Domain.dll

@@ -1,0 +1,12 @@
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/bin/Debug/net6.0/AccountManager.Domain.deps.json
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/bin/Debug/net6.0/AccountManager.Domain.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/bin/Debug/net6.0/AccountManager.Domain.pdb
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/obj/Debug/net6.0/AccountManager.Domain.csproj.AssemblyReference.cache
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/obj/Debug/net6.0/AccountManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/obj/Debug/net6.0/AccountManager.Domain.AssemblyInfoInputs.cache
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/obj/Debug/net6.0/AccountManager.Domain.AssemblyInfo.cs
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/obj/Debug/net6.0/AccountManager.Domain.csproj.CoreCompileInputs.cache
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/obj/Debug/net6.0/AccountManager.Domain.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/obj/Debug/net6.0/refint/AccountManager.Domain.dll
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/obj/Debug/net6.0/AccountManager.Domain.pdb
+/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/obj/Debug/net6.0/ref/AccountManager.Domain.dll

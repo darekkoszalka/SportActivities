@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/AccountManager.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/AccountManager.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/AccountManager.Application.csproj",
+        "projectName": "AccountManager.Application",
+        "projectPath": "/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/AccountManager.Application.csproj",
+        "packagesPath": "/Users/dariuszkoszalka/.nuget/packages/",
+        "outputPath": "/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dariuszkoszalka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/AccountManager.Domain.csproj": {
+                "projectPath": "/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/AccountManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/AccountManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/AccountManager.Domain.csproj",
+        "projectName": "AccountManager.Domain",
+        "projectPath": "/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/AccountManager.Domain.csproj",
+        "packagesPath": "/Users/dariuszkoszalka/.nuget/packages/",
+        "outputPath": "/Users/dariuszkoszalka/Documents/Programowianie/Programy w budowie/Activities/AccountManager.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dariuszkoszalka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
